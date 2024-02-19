@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//alluarjunpatel.github.io/patel-/static/css/main.e6c13ad2.css",
+    "main.js": "/https//alluarjunpatel.github.io/patel-/static/js/main.2a18e481.js",
+    "static/js/453.0b1d0003.chunk.js": "/https//alluarjunpatel.github.io/patel-/static/js/453.0b1d0003.chunk.js",
+    "index.html": "/https//alluarjunpatel.github.io/patel-/index.html",
+    "main.e6c13ad2.css.map": "/https//alluarjunpatel.github.io/patel-/static/css/main.e6c13ad2.css.map",
+    "main.2a18e481.js.map": "/https//alluarjunpatel.github.io/patel-/static/js/main.2a18e481.js.map",
+    "453.0b1d0003.chunk.js.map": "/https//alluarjunpatel.github.io/patel-/static/js/453.0b1d0003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2a18e481.js"
+  ]
+}
